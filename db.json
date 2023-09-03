@@ -1,0 +1,16 @@
+{
+    "deliveryDates":[
+        {
+            "id": 1,
+            "start": "2023-09-10",
+            "title": "delivery1"
+        },
+
+        {
+            "id": 2,
+            "start": "2023-09-15",
+            "title": "delivery2"
+        }
+    ]
+    
+}
